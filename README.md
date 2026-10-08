@@ -379,6 +379,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   
 ### 💬 <a name="communication"></a>Communication
 
+- [Aitho](https://aitho.app) `https://present.aitho.app/mcp`
+  [![Aitho MCP connector](https://glama.ai/mcp/connectors/app.aitho/aitho/badges/score.svg)](https://glama.ai/mcp/connectors/app.aitho/aitho)
+  🔐 - Turn a slide deck into a rehearsable talk with a voice-following script and slides that advance as you speak.
 - [Call Me](https://callmemcp.com) `https://callmemcp.com/mcp`
   [![Call Me MCP connector](https://glama.ai/mcp/connectors/com.serdaroztetik/call-me/badges/score.svg)](https://glama.ai/mcp/connectors/com.serdaroztetik/call-me)
   🔓 - Your AI rings your iPhone, speaks its question, and gets your spoken answer back as text.
